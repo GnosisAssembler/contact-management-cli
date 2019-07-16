@@ -18,7 +18,7 @@ npm install
 # Link package so you can use it as cli-app
 npm link
 
-# User cli
+# Use cli
 contact-management-cli --help
 ```
 
